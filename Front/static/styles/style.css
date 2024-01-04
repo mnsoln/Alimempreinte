@@ -1,0 +1,67 @@
+
+h1{
+    font-size: 55px;
+}
+
+label {
+    font-size: 32px;
+}
+
+
+input{
+    font-size: 24px;
+}
+
+
+
+
+
+/*###########################################*/
+
+ul {
+        list-style-type: none;
+}
+
+.header  {
+    height: 90px;
+    margin: 0;
+    background : '#NNNNNN'; 
+    }
+
+.result{
+    width : 100%;
+    border : 1px solid black;
+    display : flex;
+    gap : 20px;
+    justify-content: space-between;
+    margin-top: 15px;
+    padding : 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+.searchResult {
+    width : 100%;
+    text-align: center;
+}
+.searchResult button{
+    
+    margin-top: 15px;
+}
+
+.searchResult input[type=submit]{
+    
+    margin-top: 15px;
+}
+
+.body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .container {
+    align-items: center;
+    justify-content: center;
+} */

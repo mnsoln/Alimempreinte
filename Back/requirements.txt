@@ -1,0 +1,9 @@
+flask
+numpy
+matplotlib
+Levenshtein
+kaleido
+pandas
+plotly
+openpyxl
+xlrd
